@@ -8,4 +8,4 @@ VSCode is what we use to program our robot! This guide goes over:
 * setting Git Bash as your default terminal
 
 [Link to the guide](https://docs.google.com/presentation/d/1KZAGwCA-hJgnCuoqe4jUZ04sJNHU2n6XHczw8CtHayw/edit?usp=sharing)
-[PDF Version Guide](../slides/VSCode Setup Presentation.pdf)
+[PDF Version Guide]("../slides/VSCode Setup Presentation.pdf")
