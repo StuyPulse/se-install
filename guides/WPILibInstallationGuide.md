@@ -9,5 +9,5 @@ Notable tools we use are:
 * Shuffleboard
 * Smartdashboard
 
-[Link to the guide](https://docs.google.com/presentation/d/1KZAGwCA-hJgnCuoqe4jUZ04sJNHU2n6XHczw8CtHayw/edit?usp=sharing)
-[PDF Version Guide]("../slides/WPILib_VSCode Installation Presentation.pdf")
+* [Link to the guide](https://docs.google.com/presentation/d/1KZAGwCA-hJgnCuoqe4jUZ04sJNHU2n6XHczw8CtHayw/edit?usp=sharing)
+* [PDF Version Guide](https://github.com/StuyPulse/se-install/blob/eef2901e71082717c5f9c2d74a8fcfbfb759ecd7/slides/WPILib_VSCode%20Installation%20Presentation.pdf)
