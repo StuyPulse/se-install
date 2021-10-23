@@ -1,8 +1,8 @@
 # se-install
 Installation guides for SE newbie education and robot coding
 
-[WPILib Installation Guide](WPILibInstallationGuide.md)
+[WPILib Installation Guide](guides/WPILibInstallationGuide.md)
 
-[Git Bash Installation Guide](GitBashInstallationGuide.md)
+[Git Bash Installation Guide](guides/GitBashInstallationGuide.md)
 
-[VSCode Setup Guide](VSCodeSetupGuide.md)
+[VSCode Setup Guide](guidies/VSCodeSetupGuide.md)
