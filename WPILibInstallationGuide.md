@@ -9,4 +9,4 @@ Notable tools we use are:
 * Shuffleboard
 * Smartdashboard
 
-[This is the link to the guide](https://docs.google.com/document/d/1AaJBjgBWRh9VvL8nuXiu7s6M0SxzqXBSAe7y-zGB29Y/edit?usp=sharing)
+[This is the link to the guide](https://docs.google.com/presentation/d/1KZAGwCA-hJgnCuoqe4jUZ04sJNHU2n6XHczw8CtHayw/edit?usp=sharing)
